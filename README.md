@@ -1,3 +1,9 @@
+![image](https://github.com/mytechnotalent/MicroNN/blob/main/MicroNN.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # MicroNN: A Neural Network Tutorial from Scratch
 
 A step-by-step guide to understanding neural networks with actual math and real numbers. By the end of this tutorial, you'll understand exactly how a neural network learns to recognize handwritten digits.
@@ -730,3 +736,4 @@ The network moved in the right direction! Repeat this thousands of times and the
 6. **Training** = repeat forward → loss → backward → update, thousands of times
 
 The network "learns" by slowly adjusting weights to make better predictions!
+
