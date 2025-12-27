@@ -1,3 +1,9 @@
+![image](https://github.com/mytechnotalent/MicroNN/blob/main/MicroNN.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # MicroNN
 
 A minimal neural network implementation from scratch in NumPy that learns to classify handwritten digits using forward propagation, backpropagation, and gradient descent.
@@ -421,4 +427,5 @@ Predicted: 2 | Actual: 2
 ```
 <Figure size 640x480 with 1 Axes>
 ```
+
 
